@@ -1,0 +1,10 @@
+body {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 20px; 
+}
+
+#menu {
+    display: block;
+    font-family: 'Noto Serif TC', serif;
+    font-size: 15px; 
+}
